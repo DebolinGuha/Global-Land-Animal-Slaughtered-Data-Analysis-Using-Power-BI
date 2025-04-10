@@ -36,3 +36,30 @@ Using comprehensive global datasets, this Power BI dashboard visualizes and anal
 --
 
 
+---
+
+## 🚀 How to Use
+
+1. Clone this repository.
+2. Open the `.pbix` file using Power BI Desktop.
+3. Explore visual insights through interactive charts and maps.
+4. Filter by year, region, and animal type for granular analysis.
+
+---
+
+## 📌 Purpose
+
+This project is part of my portfolio to demonstrate skills in:
+- Data storytelling through Power BI
+- Regional comparative analysis
+- Identifying global food consumption trends
+
+---
+
+## 📬 Contact
+
+**Debolin Guha**  
+Data Analyst | MBA in Data Science and Business Analytics  
+📧 guha.debolin09@gmail.com
+
+
